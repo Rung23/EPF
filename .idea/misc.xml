@@ -5,9 +5,11 @@
       <map>
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/drawable/ic_baseline_dividend_on_24.xml" value="0.2985" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/drawable/ic_baseline_investment_24.xml" value="0.2985" />
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout-land/fragment_about.xml" value="0.33" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/app_bar_main.xml" value="0.3491847826086957" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/content_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/fragment_about.xml" value="0.358695652173913" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/fragment_dividend.xml" value="0.1" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/fragment_home.xml" value="0.358695652173913" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/fragment_investment.xml" value="0.3491847826086957" />
